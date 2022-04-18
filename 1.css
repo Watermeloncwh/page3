@@ -1,0 +1,49 @@
+
+ .a th,td {
+    padding: 32px;
+    border:1px solid black;
+background:lightblue
+   }
+   .a .cell-highlight{
+    color: blue;
+    font-weight:bold;
+background:brown
+}
+.a caption {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    color: darkseagreen;
+  }
+  
+.a tbody th {
+    width: 40%;}
+.a th {font-weight: 800;
+        font-size: large;
+        color: blueviolet;
+    }
+.a td {
+        text-align: center;
+    }
+
+.b th,td {
+         border: 1px solid black; 
+         padding: 1px;
+background:green
+      }
+.b th {
+        background-color: black;
+          color:white;
+          font-size: larger;
+          font-weight: bold;
+          padding: 1px;
+      }
+      .b  .cell-hightlight{
+        color: blue;
+        font-size: 200%;
+        background-color: lightyellow;
+    padding: 1px;
+     }
+.b .content {
+background:grey
+}
